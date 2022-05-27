@@ -6,7 +6,7 @@ Mcafee.com/activate - Mcafee Download - Enter Product Key
 *************
 Mcfaee.com/activate - Welcome to MCAFEE..!
 *************
-Go to **mcafee.com/activate** and register your subscribed McAfee product such as McAfee total protection or McAfee Internet Security. Then, download and install the product and keep your digital world safe from cyber-attacks, malware, and hackers. At the same **mcafee.com/activate** page, you can activate your subscription by entering the license key.
+Go to `mcafee.com/activate <https://mcafeee-comactivate.readthedocs.io/en/latest/index.html>`_ and register your subscribed McAfee product such as McAfee total protection or McAfee Internet Security. Then, download and install the product and keep your digital world safe from cyber-attacks, malware, and hackers. At the same **mcafee.com/activate** page, you can activate your subscription by entering the license key.
 
 .. image:: getstarted.png
 	:width: 350px
@@ -19,7 +19,7 @@ Go to **mcafee.com/activate** and register your subscribed McAfee product such a
 Want to SignUp for Macfee - Here are the steps
 *************
 1. Launch any internet browser.
-2. Use the URL window and type the keyword **mcafee.com/activate** and press **“Enter.”**
+2. Use the URL window and type the keyword `mcafee.com/activate <https://mcafeee-comactivate.readthedocs.io/en/latest/index.html>`_ and press **“Enter.”**
 3. You will directly reach the homepage of the website and from there, tap on the bar titled **“Go to My Account.”**
 4. Reach the following webpage and spot the option **“Register Now.”**
 5. Hit on the option **“Register Now.”**
@@ -50,7 +50,7 @@ Sample Activation code : **XXXXX-XXXXX-XXXXX-XXXXX-XXXXX**
 Where to enter McAfee activation code?
 ===========
 
-* Go to **mcafee.com/activate**
+* Go to `mcafee.com/activate <https://mcafeee-comactivate.readthedocs.io/en/latest/index.html>`_
 * Enter your 25 character activation code
 * Login to your account
 * Your computer is protected
@@ -60,7 +60,7 @@ How to download mcafee antivirus with product key?
 *************
 Follow the instructions given here and download McAfee.
 
-*  Firstly go to **mcafee.com/activate.**
+*  Firstly go to `mcafee.com/activate <https://mcafeee-comactivate.readthedocs.io/en/latest/index.html>`_
 *  Go to the **Mcafee My Account** section.
 *  You will get the option to sign in to your McAfee account. Enter your login details to sign in.
 *  If you are a new user, you need to register by providing relevant details.
