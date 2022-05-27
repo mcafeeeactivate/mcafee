@@ -9,11 +9,11 @@ Mcfaee.com/activate - Welcome to MCAFEE..!
 Go to **mcafee.com/activate** and register your subscribed McAfee product such as McAfee total protection or McAfee Internet Security. Then, download and install the product and keep your digital world safe from cyber-attacks, malware, and hackers. At the same **mcafee.com/activate** page, you can activate your subscription by entering the license key.
 
 .. image:: getstarted.png
-	:width: 500px
+	:width: 350px
 	:align: center
 	:height: 100px
-	:alt: canon.com/ijsetup
-	:target:http://mcafee.activation.s3-website-us-west-1.amazonaws.com
+	:alt: mcafee.com/activate
+	:target: http://mcafee.activation.s3-website-us-west-1.amazonaws.com
 
 *************
 Want to SignUp for Macfee - Here are the steps
@@ -36,19 +36,24 @@ McAfee Activation Code
 ===========
 What is McAfee activation code?
 ===========
+
 McAfee activation code is **25 character alphanumeric code**, this is required to activate your McAfee product. it is also searched as McAfee product key.
+
 ===========
 Where is my 25-digit activation code?
 ===========
+
 Look for it on the card you purchased. its back side of your McAfee retail card.
 Sample Activation code : **XXXXX-XXXXX-XXXXX-XXXXX-XXXXX**
+
 ===========
 Where to enter McAfee activation code?
 ===========
-Go to **mcafee.com/activate**
-Enter your 25 character activation code
-Login to your account
-Your computer is protected
+
+* Go to **mcafee.com/activate**
+* Enter your 25 character activation code
+* Login to your account
+* Your computer is protected
 
 *************
 How to download mcafee antivirus with product key?
