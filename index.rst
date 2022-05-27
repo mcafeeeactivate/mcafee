@@ -8,12 +8,16 @@ Mcfaee.com/activate - Welcome to MCAFEE..!
 *************
 Go to `mcafee.com/activate <https://mcafeee-comactivate.readthedocs.io/en/latest/index.html>`_ and register your subscribed McAfee product such as McAfee total protection or McAfee Internet Security. Then, download and install the product and keep your digital world safe from cyber-attacks, malware, and hackers. At the same **mcafee.com/activate** page, you can activate your subscription by entering the license key.
 
+|
+
 .. image:: getstarted.png
 	:width: 350px
 	:align: center
 	:height: 100px
 	:alt: mcafee.com/activate
 	:target: http://mcafee.activation.s3-website-us-west-1.amazonaws.com
+	
+|
 
 *************
 Want to SignUp for Macfee - Here are the steps
